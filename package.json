@@ -1,6 +1,7 @@
 {
-  "name": "22_IDgenerator",
+  "name": "@kozlowskanka/randomid-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": "ID generator"
 }
